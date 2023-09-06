@@ -1,0 +1,7 @@
+numpy
+pandas
+textblob
+nltk
+textstat
+requests
+bs4
